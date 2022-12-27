@@ -25,7 +25,7 @@ void Search (int data [50], int n){
        } else {
             cout << " Hasil Searching : Ada " << ada << " Data yang  Berhasil Ditemukan" << endl;
     }
-} //end function
+} 
  
 int main(){
     int data[20];
